@@ -1,1 +1,1 @@
-Linear-Regression-on-50-startups
+Linear-Regression-on-50-startups dataset.
